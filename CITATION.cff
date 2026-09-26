@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research corpus, please cite the relevant CEOS paper and exact version."
+title: "CEOS Research Papers"
+type: collection
+authors:
+  - family-names: "Serrano"
+    given-names: "Christian"
+repository-code: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+url: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+date-released: "2026-09-26"
+keywords:
+  - autonomous software engineering
+  - AI agents
+  - distributed systems
+  - deterministic authorization
+  - software assurance
+  - formal methods
+  - provenance
+  - transactional engineering
+  - CEOS
+license: "proprietary"
+preferred-citation:
+  type: report
+  title: "CEOS Infrastructure as a Governed Transactional Assurance Substrate for Autonomous Software Engineering"
+  subtitle: "Formal Systems Architecture, Security Model, and Falsifiable Research Program"
+  authors:
+    - family-names: "Serrano"
+      given-names: "Christian"
+  institution:
+    name: "Caivra Tech LLC"
+  year: 2026
+  month: 9
+  repository-code: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+  notes: "CEOS-RP-001; Technical Research Preprint. DOI pending archival deposit."
