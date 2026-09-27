@@ -6,11 +6,13 @@
 
 **Publication class:** Technical Research Preprint  
 **Publication identifier:** CEOS-RP-001  
+**Version:** 1.0  
 **Initial preprint date:** 2026-09-26  
 **Author:** Christian Serrano  
 **Affiliation:** Caivra Tech LLC / CEOS Research  
 **Peer-review status:** Not peer reviewed  
-**DOI:** Pending archival deposit
+**Version DOI:** [10.5281/zenodo.22991325](https://doi.org/10.5281/zenodo.22991325)  
+**Concept DOI (all versions):** [10.5281/zenodo.22991324](https://doi.org/10.5281/zenodo.22991324)
 
 ## Abstract
 
@@ -47,15 +49,21 @@ The paper's live CEOS Infrastructure inspection used:
 
 These values are historical evidence anchors for the preprint and should not be interpreted as a claim about the current live implementation after publication.
 
+## Archival publication
+
+Version 1.0 is publicly archived by Zenodo under version DOI **10.5281/zenodo.22991325**. Zenodo's concept DOI **10.5281/zenodo.22991324** represents the record across versions and should be used when the intent is to cite the evolving publication rather than this exact version.
+
+The DOI-bearing archival PDF is the authoritative scholarly artifact for v1.0. Repository artifact hashes and the Zenodo archival hash are recorded separately so that historical pre-DOI source artifacts are not silently rewritten.
+
 ## Supporting files
 
 - **METADATA.yaml** — machine-readable paper metadata
 - **CLAIMS_AND_LIMITATIONS.md** — explicit claim boundary
 - **REPRODUCIBILITY.md** — reproducibility and replication requirements
-- publication PDF and editable source — to be attached to this paper directory/publication release
+- **SHA256SUMS** — repository publication-artifact checksums
+- **ZENODO_ARCHIVE.md** — DOI and archival-artifact integrity record
+- publication PDF and editable source — repository-held publication/source artifacts
 
 ## Recommended citation
 
-Serrano, C. (2026). *CEOS Infrastructure as a Governed Transactional Assurance Substrate for Autonomous Software Engineering: Formal Systems Architecture, Security Model, and Falsifiable Research Program*. CEOS-RP-001, Technical Research Preprint, Caivra Tech LLC.
-
-A DOI-based citation should replace this provisional citation after archival deposit.
+Serrano, C. (2026). *CEOS Infrastructure as a Governed Transactional Assurance Substrate for Autonomous Software Engineering* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22991325

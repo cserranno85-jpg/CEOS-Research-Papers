@@ -25,7 +25,7 @@ This file records formal publication releases of the CEOS research corpus.
 
 ### Integrity
 
-The publication PDF and DOCX are bound by the SHA-256 values in `papers/CEOS-RP-001/SHA256SUMS`.
+The repository publication PDF and DOCX are bound by the SHA-256 values in `papers/CEOS-RP-001/SHA256SUMS`. The DOI-bearing Zenodo archival PDF is recorded separately in `papers/CEOS-RP-001/ZENODO_ARCHIVE.md` so that the historical release artifacts are not silently rewritten.
 
 ### Status semantics
 
@@ -33,6 +33,10 @@ This release records a technical research preprint. It does not imply peer revie
 
 ### Archival status
 
-DOI: **pending archival deposit**
+**Published on Zenodo.**
 
-When an archival DOI is assigned, the DOI should be added to `CITATION.cff`, `papers/CEOS-RP-001/METADATA.yaml`, and the paper landing page without rewriting the historical v1.0 research claims.
+- Version DOI (CEOS-RP-001 v1.0): **10.5281/zenodo.22991325**
+- Concept DOI (all versions): **10.5281/zenodo.22991324**
+- Zenodo record: https://zenodo.org/records/22991325
+
+The version DOI identifies the exact v1.0 archival publication. The concept DOI represents the evolving Zenodo record across versions.

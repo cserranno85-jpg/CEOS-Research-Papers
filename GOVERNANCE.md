@@ -25,7 +25,7 @@ Substantive new papers and material revisions should normally be proposed throug
 
 ## Canonical research artifact
 
-For a released paper, the tagged release and its checksummed publication artifact are the preferred historical reference. A future DOI-backed archival deposit should become the preferred scholarly citation when available.
+For a released paper, the tagged release and its checksummed publication artifact are the preferred historical repository reference. When a DOI-backed archival deposit exists, the exact-version DOI-backed artifact is the preferred scholarly reference for that version. A concept DOI may separately identify the evolving record across versions; it must not be conflated with an exact-version DOI.
 
 ## Corrections and retractions
 

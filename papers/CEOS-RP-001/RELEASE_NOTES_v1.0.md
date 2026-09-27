@@ -41,18 +41,26 @@ See `REPRODUCIBILITY.md` for the current replication boundary and proposed bench
 
 ### Artifact integrity
 
-Verify the PDF and DOCX against `SHA256SUMS`.
+Verify repository-held PDF and DOCX artifacts against `SHA256SUMS`. Verify the DOI-bearing Zenodo archival PDF against `ZENODO_ARCHIVE.md`.
 
 ### Citation
 
-Use the repository's `CITATION.cff` metadata until an archival DOI is assigned. Once a DOI exists, the DOI-backed citation should be preferred.
+For this exact version, use DOI **10.5281/zenodo.22991325**. For the evolving record across versions, Zenodo provides concept DOI **10.5281/zenodo.22991324**.
+
+Preferred v1.0 citation:
+
+Serrano, C. (2026). *CEOS Infrastructure as a Governed Transactional Assurance Substrate for Autonomous Software Engineering* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22991325
 
 ### Release anchor
 
-This v1.0 release is prepared from canonical research commit:
+This v1.0 release was prepared from canonical research commit:
 
 `609170fa3c12de95e9944dd6b0d0263aacd5c5ac`
 
 Tree:
 
 `8262873626384754757092e2db571a658fc1b851`
+
+### Archival publication
+
+Zenodo publication completed after preparation of the repository release metadata. The DOI reconciliation records that external archival event without rewriting the historical research claims or implementation evidence anchor.
