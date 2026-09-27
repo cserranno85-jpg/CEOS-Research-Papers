@@ -1,0 +1,33 @@
+schema_version: "1.0"
+paper_id: "CEOS-RP-001"
+title: "CEOS Infrastructure as a Governed Transactional Assurance Substrate for Autonomous Software Engineering"
+subtitle: "Formal Systems Architecture, Security Model, and Falsifiable Research Program"
+publication_type: "technical-research-preprint"
+status: "preprint"
+peer_reviewed: false
+date: "2026-09-26"
+language: "en"
+authors:
+  - name: "Christian Serrano"
+    affiliation: "Caivra Tech LLC / CEOS Research"
+repository: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+doi: null
+keywords:
+  - autonomous software engineering
+  - AI agents
+  - distributed systems
+  - deterministic authorization
+  - capability security
+  - software assurance
+  - formal methods
+  - provenance
+  - transactional engineering
+  - digital twins
+  - recovery
+  - multi-agent systems
+implementation_evidence_anchor:
+  repository: "cserranno85-jpg/CEOS-Infrastructure"
+  branch: "main"
+  commit: "97b01516f78a0756cfeda396d0b4ebf488feb101"
+  tree: "21b688e617078bc8527e04d4987c9a56c9abbe33"
+rights: "All rights reserved unless an artifact states otherwise."
