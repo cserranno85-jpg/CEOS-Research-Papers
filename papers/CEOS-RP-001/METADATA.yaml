@@ -5,13 +5,16 @@ subtitle: "Formal Systems Architecture, Security Model, and Falsifiable Research
 publication_type: "technical-research-preprint"
 status: "preprint"
 peer_reviewed: false
+version: "1.0"
 date: "2026-09-26"
 language: "en"
 authors:
   - name: "Christian Serrano"
     affiliation: "Caivra Tech LLC / CEOS Research"
 repository: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
-doi: null
+doi: "10.5281/zenodo.22991325"
+concept_doi: "10.5281/zenodo.22991324"
+zenodo_record: "https://zenodo.org/records/22991325"
 keywords:
   - autonomous software engineering
   - AI agents
